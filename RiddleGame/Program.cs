@@ -11,8 +11,10 @@ namespace RiddleGame
         static void Main(string[] args)
         {
             ProgramUI game = new ProgramUI();
-            //build a seed method
-            game.Run();
+            
+            
+
+                game.Run();
         }
     }
     }
