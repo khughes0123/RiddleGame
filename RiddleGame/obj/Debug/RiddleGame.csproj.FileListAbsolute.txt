@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\GOLD BADGE C#\RiddleGame\RiddleGame\obj\Debug\RiddleGame.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GOLD BADGE C#\RiddleGame\RiddleGame\bin\Debug\RiddleGame.exe.config
+C:\ElevenFiftyProjects\GOLD BADGE C#\RiddleGame\RiddleGame\bin\Debug\RiddleGame.exe
+C:\ElevenFiftyProjects\GOLD BADGE C#\RiddleGame\RiddleGame\bin\Debug\RiddleGame.pdb
+C:\ElevenFiftyProjects\GOLD BADGE C#\RiddleGame\RiddleGame\obj\Debug\RiddleGame.exe
+C:\ElevenFiftyProjects\GOLD BADGE C#\RiddleGame\RiddleGame\obj\Debug\RiddleGame.pdb
+C:\ElevenFiftyProjects\GOLD BADGE C#\RiddleGame\RiddleGame\obj\Debug\RiddleGame.csprojAssemblyReference.cache
